@@ -1,0 +1,3 @@
+- insert:
+    - id: commandcode-quota
+      name: '@local/commandcode-quota'
